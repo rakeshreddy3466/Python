@@ -32,7 +32,9 @@ while repeat_again:
     repeat  = input("if you want run again type 'YES' or type 'NO'").lower()
     if repeat == "no":
         repeat_again = False
-        print("good bye")         
+        print("good bye")  
+
+# we importred the logo from thge art module which is always presented in the file art.py       
 
 
 
