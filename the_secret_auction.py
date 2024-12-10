@@ -1,5 +1,3 @@
-import art
-print(art.logo)
 data = {}
 def xxx():
     data[name] = price
